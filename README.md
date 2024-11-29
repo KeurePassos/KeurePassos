@@ -20,3 +20,4 @@
 </div>
 
 ![Snake animation](https://github.com/KeurePassos/KeurePassos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://keurepassos.github.io/KeurePassos/github-contribution-grid-snake.svg)
