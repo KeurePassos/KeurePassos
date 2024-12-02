@@ -2,16 +2,17 @@ name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     name: Jobs to update datas
-    runs-on: ubuntu-latest
+    # Atualizando para uma versão específica do Ubuntu, evitando a mudança automática
+    runs-on: ubuntu-22.04
     steps:
       # Snake Animation
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v2  # Use a versão mais recente disponível que suporta Environment Files
         id: snake-gif
         with:
           github_user_name: KeurePassos
