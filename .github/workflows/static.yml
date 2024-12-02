@@ -3,7 +3,6 @@ name: Deploy static content to Pages
 on:
   push:
     branches: ["main"]
-
   workflow_dispatch:
 
 permissions:
@@ -25,14 +24,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
       
+      - name: Install dependencies
+        run: npm install  # Instala as dependências (se necessário)
+
+      - name: Build project
+        run: npm run build  # Ou o comando de build adequado para o seu projeto
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Especifique o diretório onde seus arquivos estão sendo gerados
-          path: './dist'  # Ajuste isso para o diretório correto
+          path: './dist'  # Ajuste o caminho se os arquivos de saída estiverem em outro diretório (ex: 'build' ou 'public')
 
       - name: Deploy to GitHub Pages
         id: deployment
