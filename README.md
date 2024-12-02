@@ -19,4 +19,6 @@
   <a href = "keurepassos17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+## Snake Animation
+
 ![Snake animation](https://KeurePassos.github.io/REPOSITORY_NAME/dist/github-contribution-grid-snake.svg)
