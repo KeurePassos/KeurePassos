@@ -22,3 +22,7 @@
 ## Snake Animation
 
 ![Snake animation](https://KeurePassos.github.io/github-snake-animation/dist/github-contribution-grid-snake.svg)
+
+https://keurepassos.github.io/KeurePassos/
+
+https://KeurePassos.github.io/KeurePassos/
