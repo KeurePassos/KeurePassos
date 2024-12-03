@@ -40,7 +40,5 @@
 
 ![snake gif](https://github.com/KeurePassos/KeurePassos/blob/output/github-contribution-grid-snake.svg)
 
+![GitHub Snake Contribution](dist/github-contribution-grid-snake.svg)
 
-![snake gif](https://raw.githubusercontent.com/KeurePassos/KeurePassos/output/github-contribution-grid-snake.svg)
-
-![snake gif](https://github.com/KeurePassos/KeurePassos/blob/output/github-contribution-grid-snake.svg)
