@@ -32,18 +32,3 @@
   <img align="center" alt="Keure-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-
-  
- 
-
-## Snake Animation
-
-![snake gif](https://github.com/KeurePassos/KeurePassos/blob/output/github-contribution-grid-snake.svg)
-
-![GitHub Snake Contribution](dist/github-contribution-grid-snake.svg)
-
-
-
-![GitHub Snake Contribution](dist/github-contribution-grid-snake.svg)
-
-
