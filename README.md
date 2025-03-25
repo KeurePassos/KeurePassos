@@ -6,11 +6,7 @@
   <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2spvnepyxjwyv1geq7mh.gif" alt="Imagem Ilustrativa" width="300"/>
 </p>
 
-## Sobre Mim
-
-Olá! Meu nome é Kéure Passos e seja bem-vindo(a) ao meu perfil do GitHub.
-
-## Conecte-se Comigo
+## Conecte-se comigo
 
 Você pode me encontrar e entrar em contato através das seguintes plataformas:
 
