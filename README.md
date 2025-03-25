@@ -42,7 +42,7 @@ Tecnologias e linguagens que utilizo:
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=keurepassos&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats" />
   </p>
-  <p align="center">
+   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeurePassos&layout=compact&langs_count=16&theme=dracula" />
   </p>
 </details>
@@ -54,3 +54,24 @@ Tecnologias e linguagens que utilizo:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+ <p>
+      <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=keurepassos&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/keurepassos/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
