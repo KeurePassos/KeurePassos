@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" alt="Imagem Ilustrativa" width="300"/>
+  <img src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2spvnepyxjwyv1geq7mh.gif" alt="Imagem Ilustrativa" width="300"/>
 </p>
 
 ## Sobre Mim
@@ -37,15 +37,24 @@ Tecnologias e linguagens que utilizo:
 
 ## Estatísticas do GitHub
 
-<details>
-  <summary>Mostrar Estatísticas</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=keurepassos&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats" />
-  </p>
-   <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeurePassos&layout=compact&langs_count=16&theme=dracula" />
-  </p>
-</details>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=keurepassos&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=keurepassos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ## Contribuições
 
